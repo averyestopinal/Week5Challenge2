@@ -1,3 +1,16 @@
+---
+title: My Weather App
+emoji: "🌦️"
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.25.0"
+app_file: app.py
+pinned: false
+---
+
+
+
 **Weather App Streamlit**
 Description:
 Web app that allows user to see temperature, humidity, and weather description selected city
